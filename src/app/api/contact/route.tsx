@@ -6,7 +6,7 @@ import { transporter, smtpEmail } from "@/utils/nodemailer";
 
 import { Email } from "@/components/email";
 
-export async function GET(req: NextRequest, res: NextResponse) {
+export async function POST(req: NextRequest, res: NextResponse) {
   const body = await req.json();
   const { name, email, message } = body;
 
