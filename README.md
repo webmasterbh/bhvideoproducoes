@@ -8,8 +8,6 @@ npm install --save-dev @types/nodemailer @types/nodemailer-smtp-transport
 
 npm install react-toastify react-confetti
 
-GOOGLE_EMAIL="bhvideoproducoes@gmail.com"
-GOOGLE_PASSWORD="unxfxvngnswkulpl"
 
 ## Git
 git log
