@@ -16,8 +16,8 @@ function Contact() {
         <div className="p-2 w-full pt-8 mt-8 border-t border-stone-200 text-center">
         
           <p className="leading-normal my-5 text-stone-900 dark:text-stone-100">
-            <br />Belo Horizonte / MG<br /> 31 30720-490<br />
-            31 2551-7044 <br />31 99540-0617
+            <br />Belo Horizonte / MG<br />  31 99657-2979<br />
+            31 2551-7044 
           </p>
          
         </div>
